@@ -1,3 +1,7 @@
 main.html
 some.tmp
+/main.html
+/some.tmp
+log/main.html
+log/some.tmp
 /temp
